@@ -1,0 +1,69 @@
+%%spl_custom_options%en%%
+User defined plugin options (RLT_SPLITTER)
+%%spl_custom_options%ru%%
+Дополнительные настройки, заданные пользователем (RLT_SPLITTER)
+
+%%option_bool%en%%
+Boolean (RLT_BOOL)
+%%option_bool%ru%%
+Логический (RLT_BOOL)
+
+%%option_uint%en%%
+Unsigned integer number (RLT_UINT), 0..10
+%%option_uint%ru%%
+Беззнаковое целое число (RLT_UINT), 0..10
+
+%%option_sint%en%%
+Signed integer number (RLT_SINT), -10..10
+%%option_sint%ru%%
+Целое число (RLT_SINT), -10..10
+
+%%option_float%en%%
+Float number (RLT_FLOAT)
+%%option_float%ru%%
+Число с плавающей точкой (RLT_FLOAT)
+
+%%option_char%en%%
+String (RLT_CHAR)
+%%option_char%ru%%
+Строка (RLT_CHAR)
+
+%%option_text%en%%
+Textbox (RLT_TEXT)
+%%option_text%ru%%
+Текстовое поле (RLT_TEXT)
+
+%%option_email%en%%
+Comma separated email addresses (RLT_EMAIL)
+%%option_email%ru%%
+Адреса email, разделенные запятыми (RLT_EMAIL)
+
+%%option_enum%en%%
+Dropdown selectbox (RLT_ENUM)
+%%option_enum%ru%%
+Выпадающий список (RLT_ENUM)
+
+%%option_enum_multi_array%en%%
+Multiselect list box (RLT_ENUM_MULTI_ARRAY)
+%%option_enum_multi_array%ru%%
+Списковое окно с множественным выбором (RLT_ENUM_MULTI_ARRAY)
+
+%%option_enum_multi_array2%en%%
+Multiselect list box, empty list is allowed (RLT_ENUM_MULTI_ARRAY)
+%%option_enum_multi_array2%ru%%
+Списковое окно с множественным выбором, список может быть пустым (RLT_ENUM_MULTI_ARRAY)
+
+%%option_date_period%en%%
+Time period (RLT_DATE_PERIOD)
+%%option_date_period%ru%%
+Период времени (RLT_DATE_PERIOD)
+
+%%option_date_period_positive%en%%
+Positive time period (RLT_DATE_PERIOD_POSITIVE)
+%%option_date_period_positive%ru%%
+Положительный период времени (RLT_DATE_PERIOD_POSITIVE)
+
+%%option_date_period_negative%en%%
+Negative time period (RLT_DATE_PERIOD_NEGATIVE)
+%%option_date_period_negative%ru%%
+Отрицательный период времени (RLT_DATE_PERIOD_NEGATIVE)
